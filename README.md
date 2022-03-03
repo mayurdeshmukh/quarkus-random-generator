@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/github/license/rohanKanojia/eclipse-jkube-demo-project)
 [![GitHub User's stars](https://img.shields.io/github/stars/eclipse/jkube?style=social)](https://github.com/eclipse/jkube)
 
-This is a demo repository used in one of Red Hat Developer Sandbox Activity: Deploying a Java Maven project on Red Hat OpenShift in seconds
+This is a demo repository used in one of Red Hat Developer Sandbox Activity: [Package and run your Java Maven application on OpenShift in seconds](https://developers.redhat.com/articles/2022/03/01/package-and-run-your-java-maven-application-openshift-seconds#generate_a_simple_java_application)
 
 ## Contents
 - [Prerequisites](#prerequisites)
